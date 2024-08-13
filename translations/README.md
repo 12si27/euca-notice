@@ -3,6 +3,13 @@
 ## ㄴ
 ---
 ## ㄷ
+### Dead Cells: Immortalis (데드 셀즈: 이모탈리스)
+
+|키워드|데드셀,덷셀|
+|-|-|
+|공식 스트리밍|-|
+|비공식 자막|[블로그](https://blog.naver.com/euanime/223485128002)|
+
 ---
 ## ㄹ
 ### Regular Show (레귤러 쇼)
@@ -40,6 +47,22 @@
 
 ---
 ## ㅅ
+### Scavengers Reign (스캐빈저스 레인)
+
+|키워드|스캐빈|
+|-|-|
+|공식 스트리밍|-|
+|비공식 자막|[블로그](https://blog.naver.com/dedete/223241203998)|
+
+---
+### Strange Hill High (스트레인지 힐 하이)
+
+|키워드|스힐하|
+|-|-|
+|공식 스트리밍|-|
+|비공식 자막|[유튜브](https://youtube.com/playlist?list=PLkyXSGXP6ECOOu10P7LblydjODVAZ9iWK&si=HXZb1MAbGTAyt6tg)|
+
+---
 ### Smiling Friends (스마일링 프렌즈)
 
 |키워드|스마프,SMS|
