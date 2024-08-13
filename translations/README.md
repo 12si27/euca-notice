@@ -26,6 +26,13 @@
 |공식 스트리밍|-|
 |비공식 자막|[블로그](https://blog.naver.com/12si27/220943064736) [백업클](https://cloud.1227.kr/rs)|
 
+### Rick and Morty (릭 앤 모티)
+
+|키워드|릭앤모티,릭모|
+|-|-|
+|공식 스트리밍|[넷플릭스](https://www.netflix.com/watch/80098743)|
+|비공식 자막||
+
 ---
 ## ㅁ
 ### Mars Express (마스 익스프레스)
@@ -66,6 +73,13 @@
 |-|-|
 |공식 스트리밍|-|
 |비공식 자막|[블로그](https://blog.naver.com/dedete/223241203998)|
+
+### Scott Pilgrim Takes Off (스콧 필그림, 날아오르다!)
+
+|키워드|스콧필그림|
+|-|-|
+|공식 스트리밍|[넷플릭스](https://www.netflix.com/watch/81153115)|
+|비공식 자막||
 
 ### SpongeBob SquarePants (네모바지 스폰지밥)
 
@@ -186,6 +200,14 @@
 
 ---
 ## ㅎ
+
+### Hilda (힐다)
+
+|키워드|힐다|
+|-|-|
+|공식 스트리밍|[넷플릭스](https://www.netflix.com/kr/title/80115346)|
+|비공식 자막|-|
+
 ---
 ## 0~9
 ---
