@@ -104,8 +104,6 @@
 |공식 스트리밍|-|
 |비공식 자막|[블로그](https://blog.naver.com/sungwoo0106/222864966639) [백업클](https://cloud.1227.kr/#Home/타자막%20백업/Pantheon%20(DDD))|
 
-###
-
 ---
 ## ㅎ
 ---
