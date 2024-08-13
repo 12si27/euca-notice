@@ -1,4 +1,11 @@
 ## ㄱ
+### The Amazing World of Gumball (검볼)
+
+|키워드|검볼|
+|-|-|
+|공식 스트리밍|[넷플릭스](https://www.netflix.com/kr/title/70243420) [쿠팡플레이](https://coupangplay.app.link/QRTAkc721Lb)|
+|비공식 자막|[검볼갤](https://gall.dcinside.com/gumball/3514)|
+
 ---
 ## ㄴ
 ---
@@ -28,7 +35,6 @@
 |공식 스트리밍|-|
 |비공식 자막|[블로그](https://blog.naver.com/chemicalists/223440557114)|
 
----
 ### My Life as a Teenage Robot (마이 라이프 애즈 어 틴에이지 로봇)
 
 |키워드|십로삶,MLaaTR,제니|
@@ -45,6 +51,13 @@
 |공식 스트리밍|-|
 |비공식 자막|[애유갤](https://gall.dcinside.com/euca/1473226)|
 
+### BoJack Horseman (보잭 홀스맨)
+
+|키워드|보잭|
+|-|-|
+|공식 스트리밍|[넷플릭스](https://www.netflix.com/kr/title/70300800)|
+|비공식 자막|-|
+
 ---
 ## ㅅ
 ### Scavengers Reign (스캐빈저스 레인)
@@ -54,7 +67,13 @@
 |공식 스트리밍|-|
 |비공식 자막|[블로그](https://blog.naver.com/dedete/223241203998)|
 
----
+### SpongeBob SquarePants (네모바지 스폰지밥)
+
+|키워드|스폰지밥|
+|-|-|
+|공식 스트리밍|[넷플릭스](https://www.netflix.com/kr/title/70155547) [쿠팡플레이](https://coupangplay.app.link/txatnc45vLb)|
+|비공식 자막|-|
+
 ### Strange Hill High (스트레인지 힐 하이)
 
 |키워드|스힐하|
@@ -62,7 +81,6 @@
 |공식 스트리밍|-|
 |비공식 자막|[유튜브](https://youtube.com/playlist?list=PLkyXSGXP6ECOOu10P7LblydjODVAZ9iWK&si=HXZb1MAbGTAyt6tg)|
 
----
 ### Smiling Friends (스마일링 프렌즈)
 
 |키워드|스마프,SMS|
@@ -78,6 +96,27 @@
 |-|-|
 |공식 스트리밍|[쿠팡플레이](https://www.coupangplay.com/content/fc9dfbd3-83fb-4e38-b1a9-ad904088ffe1)|
 |비공식 자막|[어탐갤](https://gall.dcinside.com/adventuretime/14944) [백업클](https://cloud.1227.kr/at)|
+
+### Arcane: League of Legends (아케인)
+
+|키워드|아케인|
+|-|-|
+|공식 스트리밍|[넷플릭스](https://www.netflix.com/kr/title/81435684)|
+|비공식 자막|-|
+
+### Inside Job (은밀한 회사원)
+
+|키워드|인사이드잡,인잡|
+|-|-|
+|공식 스트리밍|[넷플릭스](https://www.netflix.com/kr/title/80995819)|
+|비공식 자막|-|
+
+### We Bear Bares (위 베어 베어스)
+
+|키워드|위베베,우벗곰|
+|-|-|
+|공식 스트리밍|[쿠팡플레이](https://coupangplay.app.link/Gz1ggoZ21Lb)|
+|비공식 자막|-|
 
 ---
 ## ㅈ
@@ -99,7 +138,6 @@
 |공식 스트리밍|-|
 |비공식 자막|[백업클](https://cloud.1227.kr/ce)|
 
----
 ### Codename: Kids Next Door (암호명: 이웃집 아이들)
 
 |키워드|KND,이웃집 아이들|
@@ -107,13 +145,19 @@
 |공식 스트리밍|-|
 |비공식 자막|[블로그](https://blog.naver.com/yw6829/222132411001)|
 
----
 ### Common Side Effects (커먼 사이드 이펙츠)
 
 |키워드|CSES,커싸,컴싸,흔부,흔한부작용|
 |-|-|
 |공식 스트리밍|-|
 |비공식 자막|[블로그-1화](https://blog.naver.com/chemicalists/223536331767)|
+
+### Kipo and the Age of Wonderbeasts (키포와 신기한 동물들)
+
+|키워드|키포|
+|-|-|
+|공식 스트리밍|[넷플릭스](https://www.netflix.com/kr/title/80221553)|
+|비공식 자막|-|
 
 ---
 ## ㅌ
@@ -126,7 +170,6 @@
 |공식 스트리밍|-|
 |비공식 자막|[백업클](https://cloud.1227.kr/#Home/타자막%20백업/The%20Fairly%20OddParents%3A%20A%20New%20Wish%20(bopqod))|
 
----
 ### Fionna & Cake (피오나 앤 케이크)
 
 |키워드|피앤케|
@@ -134,7 +177,6 @@
 |공식 스트리밍|-|
 |비공식 자막|[블로그](https://blog.naver.com/whosjungwol/223200341201) [백업클](https://cloud.1227.kr/#Home/AdventureTime/FaC)|
 
----
 ### Pantheon (판테온)
 
 |키워드|판테온|
