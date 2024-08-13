@@ -58,6 +58,13 @@
 
 ---
 ## ㅈ
+### Jimmy Two-Shoes (지미 투 슈즈)
+
+|키워드|지미투슈즈|
+|-|-|
+|공식 스트리밍|-|
+|비공식 자막|[블로그](https://blog.naver.com/valcromtom/223535995009)|
+
 ---
 ## ㅊ
 ---
@@ -95,6 +102,14 @@
 |-|-|
 |공식 스트리밍|-|
 |비공식 자막|[백업클](https://cloud.1227.kr/#Home/타자막%20백업/The%20Fairly%20OddParents%3A%20A%20New%20Wish%20(bopqod))|
+
+---
+### Fionna & Cake (피오나 앤 케이크)
+
+|키워드|피앤케|
+|-|-|
+|공식 스트리밍|-|
+|비공식 자막|[블로그](https://blog.naver.com/whosjungwol/223200341201) [백업클](https://cloud.1227.kr/#Home/AdventureTime/FaC)|
 
 ---
 ### Pantheon (판테온)
