@@ -1,5 +1,5 @@
 # 애유갤 번역 목록.list
-업데이트: `2024-08-14 16:19`
+업데이트: `2024-08-14 16:25`
 
 ## 목차
 > [ㄱ](#ㄱ)
@@ -125,6 +125,13 @@
 |-|-|
 |공식 스트리밍|[쿠팡플레이](https://www.coupangplay.com/content/fc9dfbd3-83fb-4e38-b1a9-ad904088ffe1)|
 |비공식 자막|[어탐갤](https://gall.dcinside.com/adventuretime/14944) [백업클](https://cloud.1227.kr/at)|
+
+### Amphibia (신비한 개구리 나라 앰피비아)
+
+|키워드|앰퍄뱌|
+|-|-|
+|공식 스트리밍|[디즈니플러스](https://www.disneyplus.com/browse/entity-b2cc4a87-ce26-4993-895d-6a725388fd45)|
+|비공식 자막|[블로그-시즌3](https://blog.naver.com/PostSearchList.naver?SearchText=앰피비아+시즌3&blogId=33jiho2)|
 
 ### Arcane: League of Legends (아케인)
 
