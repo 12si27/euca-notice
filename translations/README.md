@@ -1,3 +1,7 @@
+# 애유갤 번역 목록.list
+#### 업데이트: 2024-08-14 14:25
+---
+
 ## ㄱ
 ### The Amazing World of Gumball (검볼)
 
