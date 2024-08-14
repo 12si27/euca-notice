@@ -68,6 +68,13 @@
 |-|-|
 |비공식 자막|[애유갤](https://gall.dcinside.com/euca/1473226)|
 
+### Bluey (블루이)
+
+|키워드|블루이|
+|-|-|
+|공식 스트리밍|[디즈니플러스](https://www.disneyplus.com/browse/entity-fa6973b9-e7cf-49fb-81a2-d4908e4bf694)|
+|비공식 자막|[블로그](https://blog.naver.com/PostList.naver?blogId=kingma64&from=postList&categoryNo=10&parentCategoryNo=10)|
+
 ### BoJack Horseman (보잭 홀스맨)
 
 |키워드|보잭|
@@ -98,6 +105,12 @@
 |키워드|스힐하|
 |-|-|
 |비공식 자막|[유튜브](https://youtube.com/playlist?list=PLkyXSGXP6ECOOu10P7LblydjODVAZ9iWK&si=HXZb1MAbGTAyt6tg)|
+
+### Summer Camp Island (썸머 캠프 아일랜드)
+
+|키워드|썸캠아|
+|-|-|
+|비공식 자막|[블로그-시즌1](https://blog.naver.com/PostList.naver?blogId=kingma64&from=postList&categoryNo=8) [블로그-시즌2](https://blog.naver.com/PostList.naver?blogId=teentcash&from=postList&categoryNo=6) [블로그-시즌3](https://blog.naver.com/PostList.naver?blogId=teentcash&from=postList&categoryNo=7) [블로그-시즌6](https://blog.naver.com/PostList.naver?blogId=teentcash&from=postList&categoryNo=15)|
 
 ### Smiling Friends (스마일링 프렌즈)
 
@@ -163,6 +176,12 @@
 |키워드|키포|
 |-|-|
 |공식 스트리밍|[넷플릭스](https://www.netflix.com/kr/title/80221553)|
+
+### Күншіктер (쿤식터)
+
+|키워드|쿤식터,Kunshikter|
+|-|-|
+|비공식 자막|[블로그](https://blog.naver.com/PostList.naver?blogId=teentcash&from=postList&categoryNo=16)|
 
 ## ㅌ
 ## ㅍ
