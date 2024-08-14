@@ -46,6 +46,7 @@
 |키워드|릭앤모티,릭모|
 |-|-|
 |공식 스트리밍|[넷플릭스](https://www.netflix.com/watch/80098743)|
+|비공식 자막|[블로그-시즌6](https://aniworld.tistory.com/category/Anime%20애니메이션/Rick%20And%20Morthy%20릭앤모티)|
 
 ## ㅁ
 ### Mars Express (마스 익스프레스)
