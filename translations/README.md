@@ -6,9 +6,7 @@
 |공식 스트리밍|[넷플릭스](https://www.netflix.com/kr/title/70243420) [쿠팡플레이](https://coupangplay.app.link/QRTAkc721Lb)|
 |비공식 자막|[검볼갤](https://gall.dcinside.com/gumball/3514)|
 
----
 ## ㄴ
----
 ## ㄷ
 ### Dead Cells: Immortalis (데드 셀즈: 이모탈리스)
 
@@ -16,7 +14,6 @@
 |-|-|
 |비공식 자막|[블로그](https://blog.naver.com/euanime/223485128002)|
 
----
 ## ㄹ
 ### Regular Show (레귤러 쇼)
 
@@ -30,7 +27,6 @@
 |-|-|
 |공식 스트리밍|[넷플릭스](https://www.netflix.com/watch/80098743)|
 
----
 ## ㅁ
 ### Mars Express (마스 익스프레스)
 
@@ -44,7 +40,6 @@
 |-|-|
 |비공식 자막|[블로그](https://blog.naver.com/12si27/221121785223) [백업클](https://cloud.1227.kr/mlaatr)|
 
----
 ## ㅂ
 ### Ben 10 (벤 10 시리즈)
 
@@ -58,7 +53,6 @@
 |-|-|
 |공식 스트리밍|[넷플릭스](https://www.netflix.com/kr/title/70300800)|
 
----
 ## ㅅ
 ### Scavengers Reign (스캐빈저스 레인)
 
@@ -90,7 +84,6 @@
 |-|-|
 |비공식 자막|[블로그-시즌1](https://blog.naver.com/chemicalists/223403621947) [블로그-시즌2](https://blog.naver.com/12si27/223490040709) [백업클](https://cloud.1227.kr/smf)|
 
----
 ## ㅇ
 ### Adventure Time (어드벤처 타임)
 
@@ -117,7 +110,6 @@
 |-|-|
 |공식 스트리밍|[쿠팡플레이](https://coupangplay.app.link/Gz1ggoZ21Lb)|
 
----
 ## ㅈ
 ### Jimmy Two-Shoes (지미 투 슈즈)
 
@@ -125,9 +117,7 @@
 |-|-|
 |비공식 자막|[블로그](https://blog.naver.com/valcromtom/223535995009)|
 
----
 ## ㅊ
----
 ## ㅋ
 ### Close Enough (클로즈 이너프)
 
@@ -153,9 +143,7 @@
 |-|-|
 |공식 스트리밍|[넷플릭스](https://www.netflix.com/kr/title/80221553)|
 
----
 ## ㅌ
----
 ## ㅍ
 ### Fairly OddParents: A New Wish (티미의 못말리는 수호천사: 새 소원)
 
@@ -175,7 +163,6 @@
 |-|-|
 |비공식 자막|[블로그](https://blog.naver.com/sungwoo0106/222864966639) [백업클](https://cloud.1227.kr/#Home/타자막%20백업/Pantheon%20(DDD))|
 
----
 ## ㅎ
 
 ### Hilda (힐다)
@@ -184,7 +171,5 @@
 |-|-|
 |공식 스트리밍|[넷플릭스](https://www.netflix.com/kr/title/80115346)|
 
----
 ## 0~9
----
 <sub>[추가/오류 신고](https://gall.dcinside.com/euca/1480341)</sub>
