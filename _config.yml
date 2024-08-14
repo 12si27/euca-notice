@@ -1,3 +1,5 @@
 markdown: kramdown
 kramdown:
   input: GFM
+name: 애유갤 공지 페이지
+title: null
