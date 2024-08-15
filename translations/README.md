@@ -1,4 +1,4 @@
-# 애유갤 번역 목록.list
+# [애유갤](https://gall.dcinside.com/euca) 번역 목록.list
 마지막 수정 시간: {{ site.time | date: "%Y-%m-%d %H:%M:%S" }}
 
 ## 목차
