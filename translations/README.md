@@ -82,6 +82,12 @@
 |-|-|
 |공식 스트리밍|[넷플릭스](https://www.netflix.com/kr/title/70300800)|
 
+### The Boondocks (분덕스)
+
+|키워드|더 분덕스|
+|-|-|
+|비공식 자막|[블로그](https://blog.naver.com/PostList.naver?blogId=dedete&from=postList&categoryNo=7&parentCategoryNo=7)|
+
 ## ㅅ
 ### Scavengers Reign (스캐빈저스 레인)
 
