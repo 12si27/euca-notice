@@ -36,6 +36,13 @@
 |비공식 자막|[블로그](https://blog.naver.com/euanime/223485128002)|
 
 ## ㄹ
+
+### Lastman (라스트맨)
+
+|키워드|라스트맨|
+|:-|:-|
+|비공식 자막|[블로그](https://blog.naver.com/PostList.naver?blogId=quidflik&from=postList&categoryNo=14)|
+
 ### Regular Show (레귤러 쇼)
 
 |키워드|레귤러쇼,평범쇼|
@@ -210,6 +217,12 @@
 |키워드|피앤케|
 |:-|:-|
 |비공식 자막|[블로그](https://blog.naver.com/whosjungwol/223200341201) [백업클](https://cloud.1227.kr/#Home/AdventureTime/FaC)|
+
+### Fired on Mars (파이어드 온 마스)
+
+|키워드|파온마|
+|:-|:-|
+|비공식 자막|[블로그](https://blog.naver.com/PostList.naver?blogId=dedete&from=postList&categoryNo=18&parentCategoryNo=18)|
 
 ### Pantheon (판테온)
 
