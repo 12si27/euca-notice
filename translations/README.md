@@ -63,9 +63,21 @@
 |:-|:-|
 |비공식 자막|[블로그](https://blog.naver.com/chemicalists/223440557114)|
 
+### Metalocalypse (메탈로칼립스)
+
+|키워드|메칼,데스클락,dethklok|
+|:-|:-|
+|비공식 자막|[블로그](https://blog.naver.com/PostList.naver?blogId=usrcheat&parentCategoryNo=17)|
+
+### Moonbeam City (문빔시티)
+
+|키워드|문빔|
+|:-|:-|
+|비공식 자막|[구드](https://drive.google.com/drive/folders/1qDJfnIenKN9osGMoDPj_5F9WAIZtUQ3X)|
+
 ### My Life as a Teenage Robot (마이 라이프 애즈 어 틴에이지 로봇)
 
-|키워드|십로삶,MLaaTR,제니|
+|키워드|십로삶,십대 로봇의 삶,십대로봇 소녀의 삶,MLaaTR,제니|
 |:-|:-|
 |비공식 자막|[블로그](https://blog.naver.com/12si27/221121785223) [백업클](https://cloud.1227.kr/mlaatr)|
 
