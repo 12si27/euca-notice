@@ -82,6 +82,13 @@
 |비공식 자막|[블로그](https://blog.naver.com/12si27/221121785223) [백업클](https://cloud.1227.kr/mlaatr)|
 
 ## ㅂ
+
+### Ballmastrz 9009 (볼마스터즈 9009)
+
+|키워드|볼마,볼마스터즈|
+|:-|:-|
+|비공식 자막|[블로그](https://blog.naver.com/PostList.naver?blogId=serimnir9869&parentCategoryNo=8)|
+
 ### Ben 10 (벤 10 시리즈)
 
 |키워드|벤10|
