@@ -224,6 +224,19 @@
 |비공식 자막|[블로그](https://blog.naver.com/PostList.naver?blogId=teentcash&from=postList&categoryNo=16)|
 
 ## ㅌ
+
+### Teen Titans (틴 타이탄)
+
+|키워드|틴타,틴타이탄,틴타이탄즈|
+|:-|:-|
+|비공식 자막|[블로그](https://blog.naver.com/PostList.naver?blogId=mega317&parentCategoryNo=14)|
+
+### Tron: Uprising (트론: 업라이징)
+
+|키워드|트론,트론: 반란의 시작|
+|:-|:-|
+|공식 스트리밍|[디즈니플러스](https://www.disneyplus.com/ko-kr/series/tron-uprising/5sNTvBoWzgWy)|
+
 ## ㅍ
 ### Fairly OddParents: A New Wish (티미의 못말리는 수호천사: 새 소원)
 
